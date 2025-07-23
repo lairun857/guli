@@ -13,7 +13,7 @@
     <description>Elasticsearch 检索服务</description>
     <dependencies>
         <dependency>
-            <groupId>com.zsy</groupId>
+            <groupId>com.liangzhican</groupId>
             <artifactId>mall-common</artifactId>
             <exclusions>
                 <exclusion>

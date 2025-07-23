@@ -14,7 +14,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.zsy</groupId>
+            <groupId>com.liangzhican</groupId>
             <artifactId>mall-common</artifactId>
         </dependency>
         <!-- 模板引擎 -->
